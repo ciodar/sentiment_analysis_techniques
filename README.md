@@ -9,6 +9,8 @@ The used datasets are available in Kaggle at the following links:
 - [News Headlines Sarcasm](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 - [Tripadvisor reviews](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
 
+A detailed report is available.
+
 
 
 
